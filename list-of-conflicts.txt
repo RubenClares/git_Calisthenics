@@ -1,0 +1,10 @@
+Starting section
+----------------
+Introduction
+------------
+Body
+----
+Conclusion
+----------
+The end
+-------
